@@ -2,7 +2,7 @@
 
 Independent audit of the Phase 2 recommendation. Research and decision only: no production code, no contact with anyone, no money spent, nothing published. Phase 1 (`../00_founder_research_report.md`) and Phase 2 (`../phase2/`) are unchanged.
 
-**Decision: B — approve a REDESIGNED validation experiment** (Gate 0 bake-off against existing tools, then a capped free scripted scan → paid $750 investigation, sequential decision rule, ≤ 120 hours, ≤ $400, ≤ 10 weeks). The Phase 2 experiment as designed is rejected; Margin Investigator is demoted from "lead hypothesis" to "one of three candidates"; stopping (D) is a close second.
+**Decision: B — approve a REDESIGNED validation experiment, narrowed by the founder's inputs (`11`) to Gate 0 + a non-selling Gate A access test, ≈ 40 hours; Stage 1 not approved until both pass.** Original redesign: (Gate 0 bake-off against existing tools, then a capped free scripted scan → paid $750 investigation, sequential decision rule, ≤ 120 hours, ≤ $400, ≤ 10 weeks). The Phase 2 experiment as designed is rejected; Margin Investigator is demoted from "lead hypothesis" to "one of three candidates"; stopping (D) is a close second.
 
 | # | Deliverable | File |
 |---|---|---|
@@ -17,6 +17,7 @@ Independent audit of the Phase 2 recommendation. Research and decision only: no 
 | 9 | Final investment decision | `08_final_investment_decision.md` |
 | – | Arabic executive summary | `09_executive_summary_ar.md` |
 | – | Source register (Phase 3) | `10_source_register.md` |
+| – | **Founder inputs addendum and updated plan (supersedes staging in `04`/`08`)** | `11_founder_inputs_addendum.md` |
 
 **Raw agent reports and scripts** (`appendix/`): `p3_a1_competitive_verification`, `p3_a2_reachability_trust_pricing`, `p3_a3_evidence_audit`, `p3_a4_customer_evidence`, `p3_a5_skeptic_review`; scripts `p3_a5_experiment_math.py`, `p3_a5_rank_stability.py`, `p3_ranking_lenses.py`, `p3_ev_redesigned.py` (analysis only).
 

@@ -1,5 +1,7 @@
 # 08 — Final Investment Decision
 
+> **Update (see `11_founder_inputs_addendum.md`).** After the founder reported no contacts in the field, very limited cash and 120+ available hours, the committee narrowed this decision: **approve only Gate 0 (≤ 25 h) and a new non-selling Gate A access test (≤ 15 h) — about 40 hours.** Stage 1 below is **not approved** until both gates pass and a warm path to qualified prospects exists. My updated prior is ≈ 5–8% (was 8–15%), at or just below the ≈ 6.5% break-even, so stopping after either gate is an acceptable, likely outcome. Everything below that conflicts with this note is superseded by it.
+
 ## Decision: **B — Approve a redesigned validation experiment**
 (Not A: the Phase 2 design is rejected. Not C: no better opportunity has evidence. Not D yet: stopping is a close second and becomes the right answer under the conditions in §7.)
 

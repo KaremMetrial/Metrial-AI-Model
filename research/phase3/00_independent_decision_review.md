@@ -5,6 +5,8 @@
 
 ---
 
+> **Update (see `11_founder_inputs_addendum.md`):** after the founder's answers (no contacts, very limited cash, 120+ hours), the approval is narrowed to Gate 0 plus a non-selling Gate A access test (≈ 40 hours); Stage 1 is not approved until both pass. Updated prior ≈ 5–8%.
+
 ## 1. Verdict
 
 **Decision: B — approve a REDESIGNED validation experiment. Do not approve the Phase 2 experiment as designed.**
