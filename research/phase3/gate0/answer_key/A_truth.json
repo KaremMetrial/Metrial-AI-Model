@@ -1,0 +1,43 @@
+{
+  "dataset": "A",
+  "seed": 11,
+  "period_of_interest": "2026-10 vs 2026-09",
+  "planted": {
+    "cost_up": "supplier cost +12% on S03 and S07 for bills dated on/after 2026-09-15 (prices unchanged)",
+    "promo": "October 2026 bundle promo: S12 discount 25% (was ~8% on 25% of orders) and an extra S12 line on ~50% of DTC orders (mix shift to the thin-margin bundle)",
+    "freight": "carrier cost +9% on DTC orders from 2026-10-01",
+    "slow_pay": "wholesale customers W12 and W27 pay in ~62 days (was ~31) for invoices dated on/after 2026-07-15"
+  },
+  "effects_vs_no_event_counterfactual_Oct2026": {
+    "cost_up": {
+      "oct_gross_profit_effect_usd": -660.0,
+      "oct_gm_pct_effect_bps": -120.7
+    },
+    "promo": {
+      "oct_gross_profit_effect_usd": 779.0,
+      "oct_gm_pct_effect_bps": -150.2
+    },
+    "freight": {
+      "oct_gross_profit_effect_usd": -553.0,
+      "oct_gm_pct_effect_bps": -101.1
+    }
+  },
+  "actual_gm_pct": {
+    "2026-09": 0.2685,
+    "2026-10": 0.2242
+  },
+  "actual_gm_change_bps_oct_vs_sep": -442.6,
+  "counterfactual_all_off_gm_pct_oct": 0.2636,
+  "avg_days_to_pay": {
+    "W12_W27_invoices_before_2026-07-15": 30.8,
+    "W12_W27_invoices_on_or_after_2026-07-15": 61.3,
+    "all_other_customers_on_or_after_2026-07-15": 31.1
+  },
+  "ar_open_total_asof_2026-10-31": 22391.0,
+  "ar_past_due_any_by_customer_top5": {
+    "W27": 3436.0,
+    "W12": 1167.0
+  },
+  "slow_pay_customers_share_of_past_due": 1.0,
+  "cost_coverage_shopify_unitCost_share_of_revenue": 0.84
+}

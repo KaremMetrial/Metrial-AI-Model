@@ -1,0 +1,11 @@
+driver,gross_profit_effect_usd
+volume (orders/units at prior-month margin),3270.48
+mix (shift between SKUs/channels),817.91
+list price,0.0
+discounts (average discount per unit),-3080.16
+supplier unit cost,-425.25
+shipping: order count,249.36
+shipping: net cost per order,-1313.25
+TOTAL of drivers,-480.91
+ACTUAL change in gross profit (Oct minus Sep),-480.91
+UNEXPLAINED RESIDUAL (must be ~0 for an identity bridge),-0.0

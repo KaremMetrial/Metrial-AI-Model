@@ -1,0 +1,15 @@
+customer_id,bucket,amount
+W03,not yet due,897.0
+W05,not yet due,584.0
+W07,not yet due,918.0
+W11,not yet due,1326.0
+W12,not yet due,1825.0
+W12,1-30 past due,1167.0
+W13,not yet due,1462.0
+W17,not yet due,2755.0
+W19,not yet due,1036.0
+W27,not yet due,3013.0
+W27,1-30 past due,3436.0
+W28,not yet due,1138.0
+W29,not yet due,1413.0
+W30,not yet due,1421.0
